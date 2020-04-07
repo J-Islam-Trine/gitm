@@ -1,10 +1,10 @@
 # menu
 menu:
-  মূলপাতা: /
   আর্কাইভ: /archives
   হেক্সো: /categories/Hexo
   ক্যাটাগরিগুলো: /categories
   ট্যাগগুলো: /tags
+  আমার সম্পর্কে: /about-me
 
 # 站点次标题和打字动效
 # https://github.com/mattboldt/typed.js

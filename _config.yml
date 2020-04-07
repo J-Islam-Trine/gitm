@@ -4,10 +4,10 @@
 
 # Site
 title: ঘোস্ট ইন দ্য মেশিন
-subtitle: 'বিকাশ'
+subtitle: 
 description: ''
 keywords:
-author: কুবের
+author: জহিরুল
 language: bn
 timezone: ''
 
@@ -98,6 +98,6 @@ theme: ayer
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: https://github.com/J-Islam-Trine/j-islam-trine.github.io.git
-  branch: master
+  # type: git
+  # repo: https://github.com/J-Islam-Trine/j-islam-trine.github.io.git
+  # branch: master
