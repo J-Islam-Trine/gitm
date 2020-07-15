@@ -1,9 +1,5 @@
 ---
 title: ট্যাগ ও ক্যাটাগরি
-tags:
-  - Hexo
-Categories:
-  - Hexo
 date: 2020-04-08 00:19:05
 ---
 

@@ -1,7 +1,5 @@
 ---
 title: রিঅ্যাক্ট নোট -১
-categories:
-  - - React
 date: 2020-07-10 16:43:46
 tags:
 ---

@@ -1,9 +1,5 @@
 ---
 title: ব্লগিং-এর জন্যে হেক্সো
-tags:
-  - Hexo
-categories:
-  - Hexo
 date: 2020-02-27 00:21:00
 ---
 

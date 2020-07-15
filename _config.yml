@@ -15,7 +15,7 @@ timezone: ''
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -64,7 +64,10 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
-tag_map:
+tag_map: 
+auto_dir_categorize:
+    enable: true  # options:true, false; default is true
+    force: false # options:true, false; default is false
 
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta

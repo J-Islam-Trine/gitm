@@ -1,8 +1,5 @@
 ---
 title: Hexo সেটআপ করার পর
-tags: [Hexo,]
-categories:
- - Hexo
 date: 2020-02-29 22:22:14
 ---
 

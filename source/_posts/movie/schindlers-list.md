@@ -1,7 +1,5 @@
 ---
 title: শিন্ডলারের ইহুদীরা
-categories:
-  - [movies]
 date: 2020-04-12 00:57:07
 tags:
 ---

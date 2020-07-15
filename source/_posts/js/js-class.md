@@ -1,9 +1,5 @@
 ---
 title: ক্লাস
-tags:
-  - oop
-categories:
-  - - javascript
 date: 2020-04-23 23:07:26
 ---
 
