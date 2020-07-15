@@ -1,11 +1,11 @@
 # menu
 menu:
-  কুবের শিখে জাভাস্ক্রিপ্ট: /categories/javascript/
-  হেক্সো: /categories/Hexo
-  রিঅ্যাক্ট: /categories/React
+  কুবের শিখে জাভাস্ক্রিপ্ট: /categories/js
+  হেক্সো: /categories/hexo
+  রিঅ্যাক্ট: /categories/react
   চলচ্চিত্র: /categories/movies
+  প্রোক্র্যাস্টিনেশন ডায়েরি: /categories/diary
   ক্যাটাগরিগুলো: /categories
-  ট্যাগগুলো: /tags
   আমার সম্পর্কে: /about-me
 
 # 站点次标题和打字动效
