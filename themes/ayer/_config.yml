@@ -1,12 +1,13 @@
 # menu
 menu:
-  কুবের শিখে জাভাস্ক্রিপ্ট: /categories/js
-  হেক্সো: /categories/hexo
-  রিঅ্যাক্ট: /categories/react
-  চলচ্চিত্র: /categories/movies
-  প্রোক্র্যাস্টিনেশন ডায়েরি: /categories/diary
   ক্যাটাগরিগুলো: /categories
+  ট্যাগগুলো: /tags
+  ওয়েব ডেভলপমেন্ট: /categories/web-dev/
+  হেক্সো: /categories/hexo
+  প্রোক্র্যাস্টিনেশন ডায়েরি: /categories/diary
+  চলচ্চিত্র: /categories/movies
   আমার সম্পর্কে: /about-me
+
 
 # 站点次标题和打字动效
 # https://github.com/mattboldt/typed.js
@@ -14,7 +15,7 @@ subtitle:
   enable: true  # 是否开启动效
   text: ওয়েব ডেভলপমেন্ট  # 显示的文字
   text2: গেমিং  # 滚动播放，如果不需要可以留空
-  text3: উদ্দেশ্যবিহীন ভাবনা  # 最多支持三段文字
+  text3: উদ্দেশ্যহীন ভাবনা  # 最多支持三段文字
   startDelay: 0   # 延迟时间
   typeSpeed: 200  # 打字速度
   loop: true  # 是否循环
