@@ -10,7 +10,6 @@ tags:
 + 4NEC2 (অ্যান্টেনা সিমুলেশন, তবে না দেয়াটাই ভালো)
 + LTSpice/Microwinds 
 
-
 ### সফটওয়্যার সাইড
 + Matlab
 
@@ -29,10 +28,17 @@ tags:
 + Computer Networking
 + Database Management
 
+
 ## ল্যাঙ্গুয়েজ
 + C/C++
 + Java (সিলেবাসে ছিলো, না দেয়াটাই ভালো।)
 + SQL
 + PHP (একদমই না চাইলে দেয়া উচিত না)
++ JavaScript
+
+
+## ওয়ার্কশপ/ট্রেইনিং
++ Web Development with Laravel, A 6-month training program by LICT(এইটা সবখানে দেয়া যাবে না, যদি কখনো ওয়েব ডেভলপার হিসেবে এপ্লাই করা হয় যেখানে কিনা PHP চায়, সেখানে শুধু মাত্র)
++ Workshop on Microcontroller, Robotics & IOT (ইলেকট্রিক্যাল+এমবেডেড প্রোগ্রামিং জব)
 
 
